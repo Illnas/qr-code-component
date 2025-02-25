@@ -67,8 +67,4 @@ Start the server
 ```
 
 
-### Notes
-
-First task that I solved for Frontend Mentor. Assignment was not that hard since it 
-only required of you to use CSS, but I used that opportunity to practice Angular.
 
